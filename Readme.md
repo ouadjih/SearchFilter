@@ -13,7 +13,7 @@ this simple app use js functions plus states to filter searchs in table.
 
 
 [Showcase demo ]
-![](https://github.com/ouadjih/SearchFilter/searchFilter. gif)
+![](https://github.com/ouadjih/SearchFilter/searchFilter.gif)
 
 
 ## Usage/Examples
