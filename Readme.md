@@ -11,7 +11,7 @@ this simple app use js functions plus states to filter searchs in table.
 
 **Client:** React,TailwindCSS
 
-[Showcase demo ](/searchFilter. gif) / ! [](/searchFilter. gif)
+[Showcase demo ](searchFilter. gif) / ! [](searchFilter. gif)
 
 ## Usage/Examples
 
