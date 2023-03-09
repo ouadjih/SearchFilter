@@ -9,10 +9,8 @@ this simple app use js functions plus states to filter searchs in table.
 
 ## Showcase
 
-**Client:** React,TailwindCSS
 
 
-[Showcase demo ]
 ![](https://github.com/ouadjih/SearchFilter/searchFilter.gif)
 
 
